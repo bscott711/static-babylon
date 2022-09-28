@@ -1,3 +1,3 @@
 # static-babylon
 
- Distriubtion build of next-netlify to be hosted on glitch
+ Exported build of next-netlify to be hosted on glitch as static site
